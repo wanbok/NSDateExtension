@@ -21,7 +21,9 @@ println("Beggining of Year: \(date.beginningOfYear)")
 println("End of Year: \(date.endOfYear)")
 ```
 
-``` Result
+Result
+
+``` 
 Current Time: 
 Beginning of Day: 
 End of Day: 
