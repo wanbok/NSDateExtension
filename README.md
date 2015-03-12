@@ -3,8 +3,8 @@
 NSDateExtension is `Swift` extensions for `NSDate`
 
 ## Features
-- [ ] (Beginning|End) of Day, Week, Month and Year
-- [ ] (Add|Minus) of Day, Week, Month and Year
+- [ ] \(Beginning|End) of Day, Week, Month and Year
+- [ ] \(Add|Minus) of Day, Week, Month and Year
 
 ## Usage
 
